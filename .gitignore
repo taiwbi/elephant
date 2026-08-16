@@ -1,0 +1,8 @@
+# Local Iosevka checkout/build files
+/iosevka/
+/package/
+/release/
+
+# Misc
+*.zip
+*.tar.gz
