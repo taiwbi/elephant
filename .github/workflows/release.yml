@@ -3,7 +3,7 @@ name: Build and release Elephant
 on:
   push:
     tags:
-      - "v*"
+      - "*"
 
   workflow_dispatch:
     inputs:
