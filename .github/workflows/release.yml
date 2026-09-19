@@ -20,7 +20,7 @@ env:
 
   # Pin this so builds are reproducible.
   # Update manually when you want to build against a newer Iosevka.
-  IOSEVKA_REF: v34.8.0
+  IOSEVKA_REF: v34.8.1
 
   NODE_VERSION: "24"
 
